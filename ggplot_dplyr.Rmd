@@ -3,7 +3,7 @@ title: "ggplot() & dplyr tutorial"
 output: html_document
 ---
 
-This tutorial introduced the `ggplot2` and `dplyr` packages, which are part of the `tidyverse`. It is broken into two sections, the first focuses on plotting with `ggplot()` and the second focuses an using the 6 main `dplyr` verbs or functions.
+This tutorial introduces the `ggplot2` and `dplyr` packages, which are part of the `tidyverse`. It is broken into two sections, the first focuses on plotting with `ggplot()` and the second focuses an using the 6 main `dplyr` verbs or functions.
 
 By the end of the tutorial, you should be able to:
 
@@ -15,4 +15,4 @@ By the end of the tutorial, you should be able to:
 * Pipe (`%>%`) together a sequence of `dplyr` functions to answer a question.  
 * Combine `dplyr` verbs and `ggplot()` functions to wrangle and plot data.
 
-<button onclick="document.location='https://ggplot-dplyr-intro.netlify.app/'">ggplot & dplyr Tutorial</button>
+<button onclick="document.location='https://ggplot-dplyr-intro.netlify.app/'">ggplot & dplyr tutorial</button>
