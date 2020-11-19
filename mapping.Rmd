@@ -1,0 +1,19 @@
+---
+title: "Mapping data in R"
+output: html_document
+---
+
+This tutorial introduces a few different ways to map data in R.
+
+By the end of the tutorial, you should be able to:
+
+* Plot data points on top of a map using the `ggmap()` function along with `ggplot2` functions.  
+
+* Create choropleth maps using `geom_map()`.  
+
+* Add points and other `ggplot2` features to a map created from `geom_map()`.  
+
+* Understand the basics of creating a map using `leaflet`, including adding points and choropleths to a base map.
+
+
+<button onclick="document.location='https://mapping-in-r.netlify.app/'">mapping tutorial</button>

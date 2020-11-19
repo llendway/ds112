@@ -7,6 +7,8 @@ navbar:
       href: ggplot_dplyr.html
     - text: expanding data wrangling
       href: wrangling.html
+    - text: mapping
+      href: mapping.html
 output:
   html_document:
     theme: flatly
