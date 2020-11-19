@@ -9,6 +9,10 @@ navbar:
       href: wrangling.html
     - text: mapping
       href: mapping.html
+    - text: animation and interactivity
+      href: animation_interactivity.html
+    - text: importing, scraping, and more
+      href: importing_etc.html
 output:
   html_document:
     theme: flatly

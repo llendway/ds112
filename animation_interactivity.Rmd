@@ -1,0 +1,19 @@
+---
+title: "Animation and Interactivity in R"
+output: html_document
+---
+
+This tutorial introduces a few different ways to add animation and interactivity to plots created from `ggplot2`. It will also introduce you to `shiny` apps.
+
+By the end of the tutorial, you should be able to:
+
+* Add basic interactivity to a `ggplot2` plot using `ggplotly()`.  
+
+* Add animation layers to plots using `gganimate` functions.  
+
+* Create a shiny app that requires inputs.  
+
+* Publish a shiny app to shinyapps.io.
+
+
+<button onclick="document.location='https://animation-and-interactivity-in-r.netlify.app/'">animation & interactivity tutorial</button>
