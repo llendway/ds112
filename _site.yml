@@ -1,0 +1,10 @@
+navbar: 
+  title: COMP/STAT 112
+  left:
+  - text: Tutorials
+    menu: 
+    - text: ggplot and dplyr
+      href: ggplot_dplyr.html
+output:
+  html_document:
+    theme: flatly
