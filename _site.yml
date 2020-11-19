@@ -5,6 +5,8 @@ navbar:
     menu: 
     - text: ggplot and dplyr
       href: ggplot_dplyr.html
+    - text: expanding data wrangling
+      href: wrangling.html
 output:
   html_document:
     theme: flatly
