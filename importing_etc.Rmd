@@ -1,0 +1,21 @@
+---
+title: "Importing, scraping, and more!"
+output: html_document
+---
+
+This tutorial introduces some common import functions, illustrates basic web scraping with `rvest`, shows how to create nice tables with `gt`, and how to combine graphs with `patchwork`.
+
+By the end of the tutorial, you should be able to:
+
+* Import data into R that is stored in a common file type (.csv, .txt, excel, etc) or in a Google spreadsheet.  
+
+* Find resources to read in data that is in a format other than one of the more common formats.
+
+* Use `rvest()` functions to scrape data from a simple webpage and recognize when scraping the data will require more advanced tools.
+
+* Create nice tables with the `gt` functions. 
+
+* Use `patchwork` to display related plots together nicely.
+
+
+<button onclick="document.location='https://importing-and-more-in-r.netlify.app/'">importing, scraping, etc. tutorial</button>
