@@ -1,0 +1,15 @@
+---
+title: "Expanding data wrangling"
+output: html_document
+---
+
+This tutorial introduces joining, pivoting, factor variable manipulation, and basic string manipulation with `stringr`.
+
+By the end of the tutorial, you should be able to:
+
+* Use `pivot_longer()` and `pivot_wider()`to change the way the data are laid out.  
+* Join tables of data together using the `dplyr` join functions and understand the differences among the different types of joins.  
+* Use various `forcats` functions, including ones not covered in the tutorial, to change the order or values of levels of categorical variables.  
+* Use the `stringr` functions covered in this tutorial (plus `separate()`) and know where to find information about other `stringr` functions (HINT: the cheatsheet is a great start).
+
+<button onclick="document.location='https://03-wrangling-tutorial.netlify.app/'">wrangling tutorial</button>
